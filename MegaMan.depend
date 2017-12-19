@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1496884496 source:c:\users\danny\documents\a5enginetemplate\src\init.cpp
+	"init.h"
+
+1494764977 source:c:\users\danny\documents\a5enginetemplate\src\joysticklistener.cpp
+	"joystickListener.h"
+
+1494764977 source:c:\users\danny\documents\a5enginetemplate\src\keylistener.cpp
+	"keyListener.h"
+
+1510700947 source:c:\users\danny\documents\a5enginetemplate\src\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<mouseListener.h>
+	<keyListener.h>
+	<joystickListener.h>
+	"init.h"
+	"state.h"
+	"menu.h"
+
+1510700988 source:c:\users\danny\documents\a5enginetemplate\src\menu.cpp
+	"menu.h"
+
+1494764978 source:c:\users\danny\documents\a5enginetemplate\src\mouselistener.cpp
+	"mouseListener.h"
+
+1494764978 source:c:\users\danny\documents\a5enginetemplate\src\state.cpp
+	"state.h"
+
+1507575475 source:c:\users\danny\documents\a5enginetemplate\src\tools.cpp
+	"tools.h"
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"state.h"
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\state.h
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\joysticklistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1494764976 c:\users\danny\documents\a5enginetemplate\include\keylistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1511306604 source:c:\users\jon\documents\github\a5enginetemplate-master\src\init.cpp
+	"init.h"
+
+1511306604 c:\users\jon\documents\github\a5enginetemplate-master\include\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"state.h"
+
+1511306604 c:\users\jon\documents\github\a5enginetemplate-master\include\state.h
+
+1511306604 source:c:\users\jon\documents\github\a5enginetemplate-master\src\joysticklistener.cpp
+	"joystickListener.h"
+
+1511306604 c:\users\jon\documents\github\a5enginetemplate-master\include\joysticklistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1511306604 source:c:\users\jon\documents\github\a5enginetemplate-master\src\keylistener.cpp
+	"keyListener.h"
+
+1511306604 c:\users\jon\documents\github\a5enginetemplate-master\include\keylistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1512700267 source:c:\users\jon\documents\github\a5enginetemplate-master\src\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<mouseListener.h>
+	<keyListener.h>
+	<joystickListener.h>
+	"init.h"
+	"state.h"
+	"menu.h"
+
+1511306604 c:\users\jon\documents\github\a5enginetemplate-master\include\mouselistener.h
+	<allegro5/allegro.h>
+
+1512932862 c:\users\jon\documents\github\a5enginetemplate-master\include\menu.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"keyListener.h"
+	"joystickListener.h"
+	"tools.h"
+	"state.h"
+
+1512766786 c:\users\jon\documents\github\a5enginetemplate-master\include\tools.h
+	<string>
+	<math.h>
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+
+1512958297 source:c:\users\jon\documents\github\a5enginetemplate-master\src\menu.cpp
+	"menu.h"
+	"mouseListener.h"
+	<allegro5/allegro_primitives.h>
+	<fstream>
+	<iostream>
+
+1511306604 source:c:\users\jon\documents\github\a5enginetemplate-master\src\mouselistener.cpp
+	"mouseListener.h"
+
+1511306604 source:c:\users\jon\documents\github\a5enginetemplate-master\src\state.cpp
+	"state.h"
+
+1511306604 source:c:\users\jon\documents\github\a5enginetemplate-master\src\tools.cpp
+	"tools.h"
+
+1511306604 source:c:\users\jon\documents\github\megaman\src\init.cpp
+	"init.h"
+
+1511306604 c:\users\jon\documents\github\megaman\include\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"state.h"
+
+1511306604 c:\users\jon\documents\github\megaman\include\state.h
+
+1511306604 source:c:\users\jon\documents\github\megaman\src\joysticklistener.cpp
+	"joystickListener.h"
+
+1511306604 c:\users\jon\documents\github\megaman\include\joysticklistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1511306604 source:c:\users\jon\documents\github\megaman\src\keylistener.cpp
+	"keyListener.h"
+
+1511306604 c:\users\jon\documents\github\megaman\include\keylistener.h
+	<iostream>
+	<allegro5/allegro.h>
+
+1512700267 source:c:\users\jon\documents\github\megaman\src\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<mouseListener.h>
+	<keyListener.h>
+	<joystickListener.h>
+	"init.h"
+	"state.h"
+	"menu.h"
+
+1511306604 c:\users\jon\documents\github\megaman\include\mouselistener.h
+	<allegro5/allegro.h>
+
+1512932862 c:\users\jon\documents\github\megaman\include\menu.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"keyListener.h"
+	"joystickListener.h"
+	"tools.h"
+	"state.h"
+
+1512766786 c:\users\jon\documents\github\megaman\include\tools.h
+	<string>
+	<math.h>
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+
+1512958297 source:c:\users\jon\documents\github\megaman\src\menu.cpp
+	"menu.h"
+	"mouseListener.h"
+	<allegro5/allegro_primitives.h>
+	<fstream>
+	<iostream>
+
+1511306604 source:c:\users\jon\documents\github\megaman\src\mouselistener.cpp
+	"mouseListener.h"
+
+1511306604 source:c:\users\jon\documents\github\megaman\src\state.cpp
+	"state.h"
+
+1511306604 source:c:\users\jon\documents\github\megaman\src\tools.cpp
+	"tools.h"
+

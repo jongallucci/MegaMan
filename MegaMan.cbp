@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="A5EngineTemplate" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/A5EngineTemplate" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lallegro" />
+			<Add option="-lallegro_primitives" />
+			<Add option="-lallegro_image" />
+			<Add option="-lallegro_audio" />
+			<Add option="-lallegro_font" />
+			<Add option="-lallegro_color" />
+			<Add option="-lallegro_dialog" />
+			<Add option="-lallegro_ttf" />
+			<Add option="-lallegro_acodec" />
+			<Add directory="include" />
+		</Linker>
+		<Unit filename="include/globals.h" />
+		<Unit filename="include/init.h" />
+		<Unit filename="include/joystickListener.h" />
+		<Unit filename="include/keyListener.h" />
+		<Unit filename="include/menu.h" />
+		<Unit filename="include/mouseListener.h" />
+		<Unit filename="include/rapidxml.hpp" />
+		<Unit filename="include/rapidxml_iterators.hpp" />
+		<Unit filename="include/rapidxml_print.hpp" />
+		<Unit filename="include/rapidxml_utils.hpp" />
+		<Unit filename="include/state.h" />
+		<Unit filename="include/tools.h" />
+		<Unit filename="src/init.cpp" />
+		<Unit filename="src/joystickListener.cpp" />
+		<Unit filename="src/keyListener.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/menu.cpp" />
+		<Unit filename="src/mouseListener.cpp" />
+		<Unit filename="src/state.cpp" />
+		<Unit filename="src/tools.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
